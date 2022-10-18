@@ -53,7 +53,7 @@ const char index_html[] PROGMEM = R"rawliteral(
 </head>
 <body>
   <div class="topnav">
-    <h3>LEONARDO WELZEL, BRUNO BUENO, BRENO BALBINOTTI</h3>
+    <h3>LEONARDO WELZEL, BRUNO BUENO, BRENO BALBINOTTI DE MELLO</h3>
   </div>
   <div class="content">
     <div class="cards">
