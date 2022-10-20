@@ -1,6 +1,6 @@
-Projeto de NodeMCU número 5 
+Projeto com NodeMCU8266 número 5 
 
-Utilizando sensores infra-vermelho 
+Utilizando Sensores Infra-Vermelho 
 
 Projeto Realizado em Grupo
 
