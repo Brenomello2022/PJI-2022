@@ -1,9 +1,9 @@
-Projeto com NodeMCU8266 número 4, parte 2
+Projeto com NodeMCU8266 número 4, parte 2.
  
-Utilizando Sensor de Chuva
+Utilizando Sensor de Chuva.
 
-Avaliação Realizada em Grupo
+Avaliação Realizada em Grupo.
 
-Integrantes: Breno Balbinotti de Mello, Bruno Bueno, Leonardo Welzel
+Integrantes: Breno Balbinotti de Mello, Bruno Bueno, Leonardo Welzel.
 
-Avaliação Primeiro Bimestre
+Avaliação Primeiro Bimestre.
