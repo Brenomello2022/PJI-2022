@@ -1,5 +1,5 @@
-# sword-spinning-HTML+CSS+GSAP
+Sword-Spinning.
 
-# Espada Girando
+Espada Girando.
 
 ![](espada-gif.gif)
